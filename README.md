@@ -1,4 +1,4 @@
-# Backend Projeto final 🤝
+# Backend Projeto final 📊
 ## Projeto elaborado no curso ***Graphql - COD3R***
 
 <br>
